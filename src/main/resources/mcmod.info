@@ -1,16 +1,16 @@
 [
   {
-    "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
-    "version": "${version}",
-    "mcversion": "${mcversion}",
+    "modid": "startermod",
+    "name": "Starter Mod",
+    "description": "My first mod. Responds hi when someone else says hi",
+    "version": "${0.0.1}",
+    "mcversion": "${1.8.9}",
     "url": "https://github.com/romangraef/Forge1.8.9Template/",
     "updateUrl": "",
     "authorList": [
-      "You"
+      "Sir-Medgabyte"
     ],
-    "credits": "",
+    "credits": "Sir-Medgabyte",
     "logoFile": "",
     "screenshots": [],
     "dependencies": []

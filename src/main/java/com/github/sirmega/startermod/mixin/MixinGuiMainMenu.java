@@ -1,4 +1,4 @@
-package com.github.sirmega-bite.startermod.mixin;
+package com.github.sirmega.startermod.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;

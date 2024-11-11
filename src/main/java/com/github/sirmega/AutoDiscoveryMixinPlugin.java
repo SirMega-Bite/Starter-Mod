@@ -1,4 +1,4 @@
-package com.github.sirmega-bite.startermod.init;
+package com.github.sirmega;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
