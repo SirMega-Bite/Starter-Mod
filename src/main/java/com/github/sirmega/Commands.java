@@ -1,4 +1,4 @@
-package com.github.sirmega.startermod.mixin;
+package com.github.sirmega;
 
 import net.minecraft.command.CommandBase;
 import net.minecraft.command.CommandException;
